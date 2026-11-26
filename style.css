@@ -14,7 +14,7 @@
         background-color: #F2F5F9;
         font-family: "Lato", sans-serif;
         font-size: 16px;
-        margin: 124px 0;
+        margin: 128px 0;
       }
 
 
@@ -66,7 +66,7 @@
 
      .devider{
         width: calc(100% + 64px);
-        border: 0.5px solid #F2F5F9; 
+        border: 1px solid #F2F5F9; 
         
      }
 
